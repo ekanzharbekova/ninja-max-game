@@ -1,4 +1,4 @@
-# Ninja Max Game
+# Ninja Frog Game
 Welcome to Ninja Frog Game! This repository contains a simple 2D game built using the Unity game engine. In this game, you'll take on the role of a ninja Frog.
 
 # Installation
